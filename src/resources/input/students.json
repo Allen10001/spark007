@@ -1,4 +1,4 @@
-{"id":1, "name": "zhangsan", "age": 12}
-{"id":2, "name": "lisi", "age": 13}
-{"id":3, "name": "wangwu", "age": 14}
-{"id":2, "name": "lisi", "age": 10}
+{"id":1, "name": "zhangsan", "age": 12, "group": [12, 13]}
+{"id":2, "name": "lisi", "age": 13, "group": [14, 15]}
+{"id":2, "name": "wangwu", "age": 14, "group": [15, 16]}
+{"id":2, "name": "lisi", "age": 10, "group": [24, 25]}
